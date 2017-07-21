@@ -1,0 +1,3 @@
+[submodule "dstc6-goal-oriented-end-to-end"]
+	path = dstc6-goal-oriented-end-to-end
+	url = https://github.com/perezjln/dstc6-goal-oriented-end-to-end
